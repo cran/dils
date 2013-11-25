@@ -2,15 +2,19 @@
 \alias{AdjacencyFromEdgelist}
 \title{Convert an edgelist to an adjacency matrix}
 \usage{
-  AdjacencyFromEdgelist(elist)
+  AdjacencyFromEdgelist(elist, check.full = TRUE)
 }
 \arguments{
   \item{elist}{data.frame, see 'Details' for formatting
   assumptions.}
+
+  \item{check.full}{logical, if TRUE ensures that all
+  possible edges are in the list exactly once; if FALSE it
+  assumes this is true.}
 }
 \value{
   list, containing an adjacency matrix and a vector of node
-  ids identifying the rows and columns \tabular{ll}{
+  ids identifying the rows and columns. \tabular{ll}{
   \code{adjacency} \tab The adjacency matrix for the
   network. The row indicates the node the edge is coming
   'from', the column indicates the node the edge is going

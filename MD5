@@ -1,7 +1,7 @@
-dd36525f8a3f23fb78011b0d67afdef7 *DESCRIPTION
+1a4e99cb2f9315168403366b581573e1 *DESCRIPTION
 3fa066c66c7f06b4f82b99e15e4659b6 *LICENSE
 ded07c076e00d9c2c7659d3b6374ba9a *NAMESPACE
-72b4dde4c276f9f2dd9782d109ffe50f *R/AdjacencyFromEdgelist.R
+aa0020093c81ae1862d12a0c4e41cc03 *R/AdjacencyFromEdgelist.R
 7f8dc4292e1f8dc346c429f58583a738 *R/EdgelistFill.R
 a1a48e7b7b4428b9f7d0a08eda55417f *R/EdgelistFromAdjacency.R
 d2796463a93de7f27f9acb51820b2ce3 *R/EdgelistFromIgraph.R
@@ -21,7 +21,7 @@ c0f3978c7a5ff93fda267078e6861537 *R/RssThisRadius.R
 d132e9743d8aeaa947b33014389d33e9 *inst/CITATION
 c0e75f535862f12ec6db6f392f4f0272 *inst/tests/test_GetSampleFromDataFrame.R
 76ffc2afaec0dbf90dfe28ab4ef584fb *inst/tests/test_ScalablePCA.R
-0a918ad8d9a70360fcd2e10227f7cce9 *man/AdjacencyFromEdgelist.Rd
+430928d02daa12d2b1e4c774f126c383 *man/AdjacencyFromEdgelist.Rd
 1a032f9dfc792014e72a0acc83c7cd79 *man/EdgelistFill.Rd
 5e740f2603bf9b4fe2c3c83baa172eb1 *man/EdgelistFromAdjacency.Rd
 de153512318c1d3911f4908c300108df *man/EdgelistFromIgraph.Rd
@@ -41,6 +41,6 @@ ef3b0b82810c22c1bf288ee122bd26fa *man/IgraphFromEdgelist.Rd
 57b5f5036badf97df8e6675995f83937 *man/dils-package.Rd
 86b321408001d914b95bb1fd7ff52c43 *src/Makevars
 5a72049bd03d3f107f025aab8f35f85b *src/Makevars.win
-107e7431a8d67309cacf268abf3bf6f0 *src/rss_cpp_matrix.cpp
+934de4a1a664c28a89ce13f6a74ec7cc *src/rss_cpp_matrix.cpp
 40f7296ac8e3158c975b4531cae48948 *src/rss_cpp_matrix.h
 c43916f61e21bf32423eea656b280d41 *tests/run-all.R
